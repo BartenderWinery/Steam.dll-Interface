@@ -1,0 +1,6 @@
+
+*.vsidx
+*.lock
+.vs/Steam/v17/.suo
+*.cache
+*.txt
